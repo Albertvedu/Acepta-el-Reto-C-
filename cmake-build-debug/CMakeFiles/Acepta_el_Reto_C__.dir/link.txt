@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Acepta_el_Reto_C__.dir/main.cpp.o CMakeFiles/Acepta_el_Reto_C__.dir/problems/Prueba.cpp.o CMakeFiles/Acepta_el_Reto_C__.dir/problems/P255.cpp.o -o Acepta_el_Reto_C__ 

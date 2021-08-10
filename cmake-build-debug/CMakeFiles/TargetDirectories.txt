@@ -1,0 +1,3 @@
+/home/albert/CLionProjects/Acepta-el-Reto-C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/albert/CLionProjects/Acepta-el-Reto-C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/albert/CLionProjects/Acepta-el-Reto-C++/cmake-build-debug/CMakeFiles/Acepta_el_Reto_C__.dir

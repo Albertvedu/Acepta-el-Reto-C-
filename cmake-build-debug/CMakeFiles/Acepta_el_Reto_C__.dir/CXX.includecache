@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/albert/CLionProjects/Acepta-el-Reto-C++/problems/P255.cpp
+iostream
+-
+string
+-
+climits
+-
+fstream
+-
+
